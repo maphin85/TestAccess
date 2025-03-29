@@ -1,1 +1,1 @@
-AllowAcces
+AllowAccess
